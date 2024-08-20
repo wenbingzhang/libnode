@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  NODE_VERSION: "v20.9.0"
+  NODE_VERSION: "v20.16.0"
 
 jobs:
   build:
